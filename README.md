@@ -133,7 +133,7 @@ The following image displays the architecture of a microservice applicaiton
 
 The following image potrays the architecture of the entire infrastructure in AWS.
 
-![](aws-architecture.png)
+![](aws-architecture.gif)
 
 ## Application Source Code
 
